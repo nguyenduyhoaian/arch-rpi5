@@ -13,3 +13,5 @@ bash install.sh
 
 reboot to arch, log in as root user
 bash /setup.sh
+
+(see more: https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4)
