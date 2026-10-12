@@ -8,7 +8,9 @@ Download https://archlinuxarm.org/packages/aarch64/linux-rpi-16k
 then rename to linux-rpi-16k.pkg.tar.xz
 
 sudo apt install libarchive-tools
+
 cd arch-rpi5
+
 bash install.sh
 
 reboot to arch, log in as root user
